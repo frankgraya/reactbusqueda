@@ -1,2 +1,0 @@
-# reactbusqueda
-Created with CodeSandbox
